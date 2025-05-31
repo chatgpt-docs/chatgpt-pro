@@ -1,6 +1,6 @@
 # ChatGPT中文版入口：国内免费直连指南（支持GPT-4o、o3、o4mini、Claude、Gemini、DeepSeek，无需翻墙）【6月最新】
 
-**更新时间：2025/05/31**
+**更新时间：2025/06/01**
 
 在日益智能化的AI时代，ChatGPT作为对话式AI的代表，受到了广泛的关注。对于国内用户而言，如何方便快捷地使用 **ChatGPT中文版** 成为一个热门话题。今天，我们为您整理了一份全面的教程，推荐支持 **GPT-4.0**、**GPT-4.5** 和 **Claude** 系列模型的国内镜像站点，以及如何使用相关服务的指南。无需翻墙，快速直连！轻松提升您的工作效率与创作质量。
 
@@ -29,8 +29,8 @@ ChatGPT中文版是国际知名公司OpenAI开发的ChatGPT模型的本地化优
 
 | 推荐站点地址                      | 支持模型                                     | 免费额度 | 注册方式       | 稳定性 | 功能亮点                                                                 |
 |----------------------------------|---------------------------------------------|----------|----------------|--------|--------------------------------------------------------------------------|
-| [https://xsimplechat.com](https://xsimplechat.com) | GPT-4.0、GPT-4.5、GPT o1、DeepSeek R1满血版、Claude 4 Sonnet、Grok、AI绘画      | 有       | 支持国内邮箱   | ★★★★★ | 高效便捷，支持更强大的GPT-4.5和AI绘画功能，功能性丰富，体验佳              |
-| [https://chat.lanjing.pro](https://chat.lanjing.pro) | GPT-4.0、GPT-4.0 turbo、GPT o1、Grok、AI PPT | 有       | 支持国内邮箱   | ★★★★★ | 支持GPT-4.0 turbo，内置插件与AI PPT功能，适合提升生产力                    |
+| [https://xsimplechat.com](https://xsimplechat.com) | GPT-4.0、GPT-4.5、GPT o1、DeepSeek R1满血版、Claude 4 Sonnet、Grok-3、AI绘画、AI PPT、AI知识库      | 有       | 支持国内邮箱   | ★★★★★ | 高效便捷，支持更强大的GPT-4.5和AI绘画功能，功能性丰富，体验佳              |
+| [https://chat.lanjing.pro](https://chat.lanjing.pro) | GPT-4.0、GPT-4.0 turbo、GPT o1、Grok、AI 读文件 | 有       | 支持国内邮箱   | ★★★★★ | 支持GPT-4.0 turbo，内置插件与AI PPT功能，适合提升生产力                    |
 | [https://chat.gpt4us.org](https://chat.gpt4us.org) | GPT全系列模型、DeepSeek R1满血版            | 有       | 支持国内邮箱或免注册 | ★★★★★ | 全系列模型支持，特别搭载DeepSeek R1，可满足各类深度需求                     |
 ---
 
@@ -123,7 +123,7 @@ ChatGPT中文版是国际知名公司OpenAI开发的ChatGPT模型的本地化优
 
 | 网站名称                                | 支持内容                                     |
 |---------------------------------------|---------------------------------------------|
-| [https://xsimplechat.com](https://xsimplechat.com) | GPT-4.0、GPT-4.5、GPT o1、GPT o3、Claude 4 Sonnet、Grok、AI绘画      |
+| [https://xsimplechat.com](https://xsimplechat.com) | GPT-4.0、GPT-4.5、GPT o1、GPT o3、Claude 4 Sonnet、Grok-4、Gemini 2.5 Pro、AI绘画      |
 | [https://chat.lanjing.pro](https://chat.lanjing.pro) | GPT-4.0、GPT-4.0 turbo、GPT o1、Grok、AI PPT、插件 |
 | [https://chat.gpt4us.org](https://chat.gpt4us.org) | GPT全系列模型、DeepSeek R1满血版            |
 
