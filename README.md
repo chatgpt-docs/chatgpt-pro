@@ -14,7 +14,7 @@
 
 [https://xsimplechat.com](https://xsimplechat.com)
 
-[https://chat.lanjing.pro](https://chat.lanjing.pro
+[https://chat.lanjing.pro](https://chat.lanjing.pro)
 
 ---
 
