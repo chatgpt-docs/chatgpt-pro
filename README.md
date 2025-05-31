@@ -10,6 +10,9 @@
 - 使用ChatGPT的关键优势是什么？
 - 如何快速上手？
 
+推荐ChatGPT国内站点
+[https://xsimplechat.com](https://xsimplechat.com)
+[https://chat.lanjing.pro](https://chat.lanjing.pro
 ---
 
 ## 什么是 ChatGPT 中文版？
