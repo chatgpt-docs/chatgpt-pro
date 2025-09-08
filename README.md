@@ -1,4 +1,4 @@
-# ChatGPT中文版入口：国内免费直连指南（支持GPT-4o、o3、o4mini、Claude、Gemini、DeepSeek，无需翻墙）【9月最新】
+# ChatGPT中文版入口：国内免费直连指南（支持GPT-4o、o3、o4mini、Claude、Gemini、DeepSeek，无需翻墙）【2025年9月最新】
 
 **更新时间：2025/09/08** 
 
