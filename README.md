@@ -1,6 +1,6 @@
 # ChatGPT中文版入口：国内免费直连指南（支持GPT-5、o3、o4mini、Claude、Gemini、DeepSeek，无需翻墙）【2025年9月最新】
 
-**更新时间：2025/09/22** 
+**更新时间：2025/09/29** 
 
 在日益智能化的AI时代，ChatGPT作为对话式AI的代表，受到了广泛的关注。对于国内用户而言，如何方便快捷地使用 **ChatGPT中文版** 成为一个热门话题。今天，我们为您整理了一份全面的教程，推荐支持 **GPT-4.0**、**GPT-4.5** 和 **Claude** 系列模型的国内镜像站点，以及如何使用相关服务的指南。无需翻墙，快速直连！轻松提升您的工作效率与创作质量。
 
@@ -15,6 +15,8 @@
 [https://xsimplechat.com](https://xsimplechat.com)
 
 [https://ai.lanjingai.org](https://ai.lanjingai.org)
+
+[https://gemini-chinese.com](https://gemini-chinese.com)
 
 ---
 
