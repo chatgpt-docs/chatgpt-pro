@@ -41,7 +41,7 @@ ChatGPT中文版是国际知名公司OpenAI开发的ChatGPT模型的本地化优
 | 推荐站点地址                                | 支持模型                                     | 免费额度 | 注册方式       | 稳定性 | 功能亮点                                                                 |
 |--------------------------------------------|---------------------------------------------|----------|----------------|--------|--------------------------------------------------------------------------|
 | [https://xsimplechat.com](https://xsimplechat.com)       | GPT-5、GPT-4.5、GPT o1、DeepSeek R1满血版、Gemini-2.5-Pro、Claude 4 Sonnet、Grok-4、AI绘画、AI PPT、AI知识库      | 有       | 支持国内邮箱   | ★★★★★ | 高效便捷，支持更强大的GPT-4.5和AI绘画功能，功能性丰富，体验佳              |
-| [https://chat.lanjingai.org](https://chat.lanjingai.org) | GPT-5、GPT-4.0 turbo、GPT o1、Gemini-2.5-Pro、Grok、AI 读文件 | 有       | 支持国内邮箱   | ★★★★★ | 支持GPT-4.0 turbo，内置插件与AI PPT功能，适合提升生产力                    |
+| [https://ai.lanjingai.org](https://ai.lanjingai.org) | GPT-5、GPT-4.0 turbo、GPT o1、Gemini-2.5-Pro、Grok、AI 读文件 | 有       | 支持国内邮箱   | ★★★★★ | 支持GPT-4.0 turbo，内置插件与AI PPT功能，适合提升生产力                    |
 | [https://chat.gpt4us.org](https://chat.gpt4us.org)       | GPT全系列模型、DeepSeek R1满血版            | 有       | 支持国内邮箱或免注册 | ★★★★★ | 全系列模型支持，特别搭载DeepSeek R1，可满足各类深度需求                     |
 ---
 
